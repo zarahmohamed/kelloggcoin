@@ -27,3 +27,8 @@ blockchain = [
 # Anthony's KelloggCoin balance is 2650
 
 # 👇👇👇 Your code HERE 👇👇👇
+
+bens_balance = 0
+brians_balance = 0
+evans_balance = 0
+anthonys_balance = 0
