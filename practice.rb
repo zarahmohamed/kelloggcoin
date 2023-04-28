@@ -55,3 +55,8 @@ for transaction in blockchain
     anthonys_balance = anthonys_balance + transaction["amount"]
   end
 end
+
+puts "Ben's KelloggCoin balance is #{bens_balance}"
+puts "Brian's KelloggCoin balance is #{brians_balance}"
+puts "Evan's KelloggCoin balance is #{evans_balance}"
+puts "Anthony's KelloggCoin balance is #{anthonys_balance}"
